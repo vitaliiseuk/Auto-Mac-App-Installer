@@ -1,0 +1,3 @@
+WINE_PATH=wine.dmg
+EXE_PATH=sample.exe
+RUN_PATH=/Wine Files/drive_c/Program Files/Charting Companion/cc.exe
